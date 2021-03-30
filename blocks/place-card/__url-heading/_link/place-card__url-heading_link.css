@@ -1,0 +1,18 @@
+.place-card__url-heading_link { 
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 1px solid #fff;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.place-card__url-heading_link:hover {
+  opacity: 0.8;
+}
+
+@media (min-width: 768px) {
+  .place-card__url-heading_link {
+    
+  }
+}

@@ -1,0 +1,32 @@
+.intro__title {
+  white-space: pre-line;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 35px;
+  margin: 0;
+
+}
+
+@media (min-width: 330px) {
+  .intro__title {
+    white-space: normal;
+  }
+}
+
+
+@media (min-width: 474px) and (max-width: 785px) {
+  .intro__title {
+    font-size: 6.751vw;
+    min-height: 33px;
+    line-height: 100%;
+  }
+}
+
+@media (min-width: 786px) {
+  .intro__title {
+    white-space: nowrap;
+    font-size: 54px;
+    line-height: 58px;
+  }
+}
+

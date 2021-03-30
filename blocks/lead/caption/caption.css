@@ -1,0 +1,24 @@
+.caption {
+  width: 159px;
+  height: 14px;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  align-items: flex-start;
+  margin: 0;
+  padding-left: 16px;
+}
+
+@media (min-width: 768px) {
+  .caption {
+    padding-left: 24px;
+  }
+}
+
+@media (min-width: 896px) {
+  .caption {
+    padding-left: 0px;
+  }
+}
+
