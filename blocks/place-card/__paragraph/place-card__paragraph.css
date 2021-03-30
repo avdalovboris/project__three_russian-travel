@@ -9,3 +9,9 @@
   margin: 0;
 }
 
+@media (min-width: 768px) {
+  .place-card__paragraph {
+    margin: 0 0 26px;
+  }
+}
+
