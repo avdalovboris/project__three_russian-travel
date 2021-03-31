@@ -1,4 +1,4 @@
-.place-card__title {
+.place__title {
   margin: 0;
   font-weight: 900;
   font-size: 32px;
@@ -6,7 +6,7 @@
 }
 
 @media (min-width: 768px) {
-  .place-card__title {
+  .place__title {
     font-size: 42px;
     line-height: 46px;
     white-space: pre-line;
@@ -14,7 +14,7 @@
 }
 
 @media (min-width: 1024px) {
-  .place-card__title {
+  .place__title {
     font-size: 72px;
     line-height: 76px;
   }

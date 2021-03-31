@@ -1,4 +1,4 @@
-.place-card__url-heading_link { 
+.place__website_link { 
   text-decoration: none;
   color: inherit;
   border-bottom: 1px solid #fff;
@@ -7,12 +7,12 @@
   line-height: 22px;
 }
 
-.place-card__url-heading_link:hover {
+.place__website_link:hover {
   opacity: 0.8;
 }
 
 @media (min-width: 768px) {
-  .place-card__url-heading_link {
+  .place__website_link {
     
   }
 }

@@ -1,18 +1,18 @@
-.place-card__image {
+.place__image {
   width: 100vw;
   margin: 32px -16px 0;
   max-width: 340px;
 }
 
 @media (min-width: 340px) {
-  .place-card__image {
+  .place__image {
     margin: 32px 0 0;
 
   }
 }
 
 @media (min-width: 768px) {
-  .place-card__image {
+  .place__image {
     margin: 0;
     width: 100%;
     max-width: 440px;
@@ -20,7 +20,7 @@
 }
 
 @media (min-width: 768px) {
-  .place-card__image {
+  .place__image {
     margin: 0;
     width: 100%;
     max-width: 460px;

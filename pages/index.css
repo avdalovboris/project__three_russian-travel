@@ -14,7 +14,7 @@
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
-@import url(../blocks/lead/caption/caption.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
@@ -25,13 +25,13 @@
 @import url(../blocks/photo-greed/__img/photo-greed__img.css);
 
 @import url(../blocks/places/places.css);
-@import url(../blocks/place-card/place-card.css);
-@import url(../blocks/place-card/__title/place-card__title.css);
-@import url(../blocks/place-card/__url-heading/place-card__url-heading.css);
-@import url(../blocks/place-card/__url-heading/_link/place-card__url-heading_link.css);
-@import url(../blocks/place-card/__image/place-card__image.css);
-@import url(../blocks/place-card/__paragraph/place-card__paragraph.css);
-@import url(../blocks/place-card/__url/place-card__url.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__website/_url-heading/place__website_url-heading.css);
+@import url(../blocks/place/__website/_link/place__website_link.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
