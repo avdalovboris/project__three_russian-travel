@@ -27,4 +27,4 @@
 >** Будет форма, через которую пользователи смогут отправить комментарий.
 
 ### Репозиторий
->https://github.com/avdalovboris/russian-travel_project_submission.git
+>[Ссылка на работу на GitHub](https://avdalovboris.github.io/russian-travel_project_submission/)
