@@ -3,6 +3,7 @@
   display: grid;
   padding: 0 16px;
   grid-template-columns: minmax(min-content, 767px);
+  row-gap: 50px;
 }
 
 @media (min-width: 768px) {

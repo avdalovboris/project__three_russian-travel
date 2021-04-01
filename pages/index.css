@@ -1,4 +1,5 @@
-@import url(../vendor/font/Inter_Web/inter.css);
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/font.css);
 
 @import url(../blocks/body/body.css);
 @import url(../blocks/page/page.css);
@@ -8,7 +9,7 @@
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/lang/lang.css);
 @import url(../blocks/lang/__style/lang__style.css);
-@import url(../blocks/lang/__style/_ru/lang__style_ru.css);
+@import url(../blocks/lang/__style/_selected/lang__style_selected.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
