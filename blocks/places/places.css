@@ -6,6 +6,10 @@
   row-gap: 50px;
 }
 
+.places ul {
+  padding: 0;
+}
+
 @media (min-width: 768px) {
   .places {
     padding: 0 24px;

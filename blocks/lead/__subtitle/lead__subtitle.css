@@ -10,7 +10,6 @@
 
 @media (min-width: 320px) and (max-width: 768px) {
   .lead__subtitle {
-    min-height: 40px;
     font-size: 5vw;
     line-height: 100%;
   }
