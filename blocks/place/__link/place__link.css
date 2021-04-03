@@ -1,4 +1,4 @@
-.place__website_link { 
+.place__link { 
   text-decoration: none;
   color: inherit;
   border-bottom: 1px solid #fff;
@@ -7,12 +7,6 @@
   line-height: 22px;
 }
 
-.place__website_link:hover {
+.place__link:hover {
   opacity: 0.8;
-}
-
-@media (min-width: 768px) {
-  .place__website_link {
-    
-  }
 }

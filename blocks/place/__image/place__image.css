@@ -1,32 +1,7 @@
 .place__image {
-  width: 100vw;
-  margin: 32px -16px 0;
-  max-width: 340px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
 }
-
-@media (min-width: 340px) {
-  .place__image {
-    margin: 32px 0 0;
-
-  }
-}
-
-@media (min-width: 768px) {
-  .place__image {
-    margin: 0;
-    width: 100%;
-    max-width: 440px;
-  }
-}
-
-@media (min-width: 768px) {
-  .place__image {
-    margin: 0;
-    width: 100%;
-    max-width: 460px;
-  }
-}
-
-
 
 

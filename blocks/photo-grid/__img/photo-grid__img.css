@@ -1,9 +1,9 @@
-.photo-greed__img {
+.photo-grid__img {
   width: 100%;
 }
 
 @media (min-width: 384px) and (max-width: 785px) {
-  .photo-greed__img {
+  .photo-grid__img {
     max-width: 352px;
     margin: auto;
   }

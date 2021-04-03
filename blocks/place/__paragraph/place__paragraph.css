@@ -6,12 +6,18 @@
 }
 
 .place__paragraph:last-child {
-  margin: 0;
+  margin: 32px 0 0;
 }
 
 @media (min-width: 768px) {
   .place__paragraph {
     margin: 0 0 26px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .place__paragraph {
+    font-size: 18px;
   }
 }
 

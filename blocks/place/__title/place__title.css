@@ -9,7 +9,7 @@
   .place__title {
     font-size: 42px;
     line-height: 46px;
-    white-space: pre-line;
+    max-width: 330px;
   }
 }
 
@@ -17,5 +17,6 @@
   .place__title {
     font-size: 72px;
     line-height: 76px;
+    max-width: 380px;
   }
 }
