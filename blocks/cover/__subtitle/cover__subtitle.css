@@ -4,9 +4,10 @@
   font-size: 4.375vw;
   line-height: 114.285714%;
   padding: 0 5% 10.316%;
-  margin: 0;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
+  width: 80%;
 }
 
 @media (min-width: 768px) {

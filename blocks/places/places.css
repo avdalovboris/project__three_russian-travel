@@ -1,7 +1,6 @@
 .places {
   margin: 64px 0 0;
   display: grid;
-  padding: 0 16px;
   grid-template-columns: minmax(min-content, 767px);
 }
 
@@ -9,7 +8,6 @@
   .places {
     padding: 0 24px;
     grid-template-columns: 100%;
-    row-gap: 73px;
     margin: 88px 0 0;
   }
 }
@@ -18,7 +16,6 @@
   .places {
     margin: 92px 0 0;
     padding: 0 48px;
-    row-gap: 80px;
   }
 }
 

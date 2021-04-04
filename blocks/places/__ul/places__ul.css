@@ -1,6 +1,7 @@
 .places__ul {
   padding: 0;
   display: grid;
+  margin: 0;
   row-gap: 50px;
 }
 
