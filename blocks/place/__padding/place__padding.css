@@ -1,9 +1,0 @@
-.place__padding {
-  padding: 0 16px;
-}
-
-@media (min-width: 768px) {
-  .place__padding {
-    padding: 0;
-  }
-}
